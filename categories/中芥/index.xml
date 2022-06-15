@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中芥 on WyMy Blog</title>
+    <link>/categories/%E4%B8%AD%E8%8A%A5/</link>
+    <description>Recent content in 中芥 on WyMy Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 04 Dec 2020 11:32:54 +0800</lastBuildDate><atom:link href="/categories/%E4%B8%AD%E8%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文章</title>
+      <link>/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Fri, 04 Dec 2020 11:32:54 +0800</pubDate>
+      
+      <guid>/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description>1234567890</description>
+    </item>
+    
+    <item>
+      <title>测试文章</title>
+      <link>/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Fri, 04 Dec 2020 11:32:54 +0800</pubDate>
+      
+      <guid>/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description>1234567890</description>
+    </item>
+    
+  </channel>
+</rss>
