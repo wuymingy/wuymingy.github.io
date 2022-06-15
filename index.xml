@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WyMy Blog</title>
-        <link>c:///Program%20Files/Git/blog/</link>
+        <link>https://wuymingy.github.io/</link>
         <description>Recent content on WyMy Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="c:///Program%20Files/Git/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wuymingy.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>[中芥]狩猎</title>
-        <link>c:///Program%20Files/Git/blog/p/2/</link>
+        <link>https://wuymingy.github.io/p/2/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>c:///Program%20Files/Git/blog/p/2/</guid>
-        <description>&lt;img src="c:///Program%20Files/Git/blog/p/2/1.jpg" alt="Featured image of post [中芥]狩猎" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+        <guid>https://wuymingy.github.io/p/2/</guid>
+        <description>&lt;img src="https://wuymingy.github.io/p/2/1.jpg" alt="Featured image of post [中芥]狩猎" /&gt;&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
 &lt;p&gt;　　cp: 中原中也×芥川龙之介&lt;/p&gt;
 &lt;p&gt;　　分级：R18&lt;/p&gt;
 &lt;p&gt;　　原作: 文豪野犬&lt;/p&gt;

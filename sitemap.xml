@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>c:///Program%20Files/Git/blog/p/2/</loc>
+    <loc>https://wuymingy.github.io/p/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/categories/</loc>
+    <loc>https://wuymingy.github.io/categories/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/post/</loc>
+    <loc>https://wuymingy.github.io/post/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/</loc>
+    <loc>https://wuymingy.github.io/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/categories/ca/</loc>
+    <loc>https://wuymingy.github.io/categories/ca/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/categories/test/</loc>
+    <loc>https://wuymingy.github.io/categories/test/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/about/</loc>
+    <loc>https://wuymingy.github.io/about/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/page/</loc>
+    <loc>https://wuymingy.github.io/page/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/archives/</loc>
+    <loc>https://wuymingy.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/search/</loc>
+    <loc>https://wuymingy.github.io/search/</loc>
   </url><url>
-    <loc>c:///Program%20Files/Git/blog/tags/</loc>
+    <loc>https://wuymingy.github.io/tags/</loc>
   </url>
 </urlset>
